@@ -1,2 +1,2 @@
 # Practice
-This repository is `Practice Python`
+`Practice Python`🤗
