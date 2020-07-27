@@ -1,2 +1,2 @@
 # Practice
-`Practice Python`🤗
+`Practice Python`
