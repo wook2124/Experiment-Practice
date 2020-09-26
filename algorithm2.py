@@ -6,7 +6,7 @@ def add(a):
 
 def prnt(st):
   for i in st:
-    print(i, end = '')
+    print(i, end = "")
 
 a = 'rfr'.upper()
 st = add(a)
